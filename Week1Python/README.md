@@ -1,1 +1,0 @@
-This directory contains foundational Python exercises covering topics such as variables, data types, user input/output, arithmetic operations, and basic control structures. It's designed to reinforce core programming concepts through practical examples.
