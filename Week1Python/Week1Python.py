@@ -51,7 +51,7 @@ print(f"Hi {name}, you will be {age}, and the end of the 2025")
 number1 = int(input("Enter is first number: "))
 number2 = int(input("Enter is second number: "))
 operator = input("What is operator: ")
-
+ 
 if operator == "+":
     print(f"{number1 } + { number2}" + number1 + number2)
 elif operator == "-":
