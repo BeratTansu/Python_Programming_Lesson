@@ -5,7 +5,7 @@ print(365*24*60)
 #Example 2 :
 name = input("What is your name? ")
 print("Hi " + name + " nice to meet you!")
-
+                                    
 #Example 3 :
 name = input("What is your name? ")
 age = input("How old are you? ")
